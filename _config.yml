@@ -16,7 +16,8 @@ keep_files:
 # Site settings
 title: Airspace
 subtitle: "A free HTML5 agency template"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+url: "http://JesseWoolford.github.io" # the base hostname & protocol for your site
+theme: Airspace
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
@@ -35,4 +36,4 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
-theme: Airspace
+
